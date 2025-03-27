@@ -1,5 +1,5 @@
 # next-dashboard
 tutorial next-dashboard
 
-Junior dev tutorial
+Junior dev tutorial 2
 
